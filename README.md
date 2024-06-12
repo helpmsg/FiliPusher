@@ -26,7 +26,3 @@
 	11.支持断开后自动重推。
 	12.远程统一配置流参数。
 	13.支持代理proxy设置。
-
-# contact:
-	add qq Group FiliPusher(688418930).
-	email: gregtham91@gmail.com
